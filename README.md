@@ -1,6 +1,6 @@
 # 깃 & 깃허브       (패스트캠퍼스 HTML/CSS, JavaScript 올인원 패키지 Online 수업을 들으며 노트한 내용입니다.)
 
-# CLI & GUI
+# CLI & GUI 
 GUI : 버튼 클릭을 통해 Git 명령을 실행할 수 있는 도구, CLI 보다 하기 쉽다. ex. 소스트리
 그러나, CLI를 꼭 사용해야할 때가 있다.
 
