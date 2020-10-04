@@ -1,9 +1,5 @@
 # 깃 & 깃허브       (패스트캠퍼스 HTML/CSS, JavaScript 올인원 패키지 Online 수업을 들으며 노트한 내용입니다.)
 
-# CLI & GUI
-GUI : 버튼 클릭을 통해 Git 명령을 실행할 수 있는 도구, CLI 보다 하기 쉽다. ex. 소스트리
-그러나, CLI를 꼭 사용해야할 때가 있다.
-
 # 깃
 
 1.      pwd                     지금 폴더가 어디 있는지 확인
@@ -31,14 +27,14 @@ GitHub 외에도 GitLab, BitBucket 등이 있다.
 11.     GitHub 사이트에 올라간 커밋 확인
 
 
-# 깃허브 프로젝트 내 컴퓨터로 받기
+# 깃허브 내 컴퓨터로 받기
 
 12.     git clone 깃허브주소 .          .을 꼭 같이 적어줘야 따로 폴더 생성 없이 파일이 생긴다.
 13.     rm -rf 폴더명                   폴더 삭제
 
 
-# 깃허브 상대방의 변동사항 pull 하기
-14.     git pull origin master
+
+
 
 
 
@@ -66,7 +62,7 @@ $ ls                                                                            
  pagefile.sys               Users/
  PerfLogs/                  Windows/
  pleiades/                  workspace/
- 
+
 200926ne@DESKTOP-BGG9A9O MINGW64 /c 
 $ cd workspace                                                                               2
 
@@ -164,7 +160,7 @@ Date:   Sun Oct 4 21:07:42 2020 +0900
     READ.md 추가
 
 
- 
+
 
 200926ne@DESKTOP-BGG9A9O MINGW64 /c/workspace/github/workspace_github_user1 (master)       
 $ git remote add origin https://github.com/200926/GithubPractice.git                       9
